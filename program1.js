@@ -1,5 +1,5 @@
 // Prove that Array is also an Object in JavaScript
-// Method -1
+// Method -1 explain
 let arr = [];
 console.log(typeof arr);
 
