@@ -13,4 +13,5 @@ function fibonacci(n) {
 
 const numberOfTerms = 10;
 const fibonacciSequence = fibonacci(numberOfTerms);
+// test
 console.log(fibonacciSequence);  // Outputs: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
