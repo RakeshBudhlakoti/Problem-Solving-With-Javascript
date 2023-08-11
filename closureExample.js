@@ -8,7 +8,6 @@ function multiply(param1) {
             return param1+param2+param3;
         }
     }
-    
 }
 
 console.log(multiply(5)(4)(3));
