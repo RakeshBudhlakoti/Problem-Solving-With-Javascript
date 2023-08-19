@@ -13,6 +13,7 @@ function isPalindrome(str) {
     return true;
 }
 
+
 const input1 = 'A man, a plan, a canal, Panama!';
 const input2 = 'racecar';
 const input3 = 'hello';
