@@ -1,3 +1,4 @@
+// reverse a string in javascript
 const str = 'Hello World';
 
 function reverseString(str) {
