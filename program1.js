@@ -1,4 +1,4 @@
-// Prove that Array is also an Object in JavaScript
+// Prove that Array is also an Object in JavaScript for that we have 2 options: typeof and isArray
 // Method -1 explain
 let arr = [];
 console.log(typeof arr);
