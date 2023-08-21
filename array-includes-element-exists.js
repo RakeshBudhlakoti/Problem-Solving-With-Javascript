@@ -8,7 +8,6 @@ function includes(arrayToSearch, elementToSearch) {
   }
   return false;
 }
-
 const versionArray = [1, 2, 5, 7, 2];
 console.log(includes(versionArray, 2));
 console.log('---------');
