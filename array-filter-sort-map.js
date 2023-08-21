@@ -4,7 +4,7 @@ const studentsArray = [
   { name: 'Akash', year: 2018, ranking: 4 },
   { name: 'Dinanath', year: 2019, ranking: 7 },
   { name: 'Sagar', year: 2017, ranking: 3 },
-]
+];
 
 console.log('Higest Rank Holders:',
   studentsArray
