@@ -11,5 +11,4 @@ function checkCountTruthyFalsy(curArray) {
   }
   return truthyCount;
 }
-
 console.log(checkCountTruthyFalsy(valuesArray));
